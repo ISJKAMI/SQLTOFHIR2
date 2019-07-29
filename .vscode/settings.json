@@ -1,0 +1,12 @@
+{
+    "objectscript.conn.host": "iris4h-fhirapi.japaneast.cloudapp.azure.com",
+    "objectscript.conn.password": "iris4hdemo",
+    "objectscript.conn.port": 52773,
+    "objectscript.conn.active": true,
+    "files.autoGuessEncoding": true,
+    "objectscript.conn.label": "Azure_gunver",
+    "files.autoSave": "off",
+    "objectscript.conn.ns": "SQLTOFHIR",
+    "terminal.integrated.shell.windows": "C:\\Program Files\\Git\\bin\\bash.exe",
+    "objectscript.export.folder": ""
+}
