@@ -11,7 +11,7 @@ XData ProductionDefinition
   <Item Name="SQLTOFHIR.PROD.SQLOperation" Category="" ClassName="SQLTOFHIR.PROD.SQLOperation" PoolSize="1" Enabled="true" Foreground="false" Comment="" LogTraceEvents="false" Schedule="">
     <Setting Target="Adapter" Name="DSN">jdbc:IRIS://127.0.0.1:51773/SQLTOFHIR</Setting>
     <Setting Target="Adapter" Name="Credentials">LOCAL</Setting>
-    <Setting Target="Adapter" Name="JDBCClasspath">./usr/irissys/dev/java/lib/JDK19/intersystems-jdbc-3.0.0.jar</Setting>
+    <Setting Target="Adapter" Name="JDBCClasspath">./usr/irissys/dev/java/lib/JDK18/intersystems-jdbc-3.0.0.jar</Setting>
     <Setting Target="Adapter" Name="JDBCDriver">com.intersystems.jdbc.IRISDriver</Setting>
     <Setting Target="Adapter" Name="JGService">EnsLib.JavaGateway.Service</Setting>
   </Item>
